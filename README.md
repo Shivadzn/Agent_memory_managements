@@ -13,7 +13,18 @@ Agentic Memory Chat is a conversational AI chatbot with persistent memory and a 
 
 ## Demo
 
+### Option 1: Embedded Video (Recommended)
+If you have a `demo.mp4` file in this repository, you can watch it directly here:
+
+<video width="100%" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Option 2: YouTube Video
 [![Watch the demo on YouTube](https://img.youtube.com/vi/Rr6vuQPuTdI/0.jpg)](https://youtu.be/Rr6vuQPuTdI)
+
+**Note:** To add your own demo video, simply place a `demo.mp4` file in the root directory of this repository. The video will automatically be embedded above.
 
 ## Installation
 1. **Clone the repository:**
