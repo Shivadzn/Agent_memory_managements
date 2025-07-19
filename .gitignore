@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore generated vector store and session data
+persistence/faiss_index/
+sessions/
+
+# Ignore all mp4 video files except demo.mp4 (remove !demo.mp4 if you want to ignore all videos)
+*.mp4
+!demo.mp4

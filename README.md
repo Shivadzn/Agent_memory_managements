@@ -12,7 +12,8 @@ Agentic Memory Chat is a conversational AI chatbot with persistent memory and a 
 - SQLite-based session storage
 
 ## Demo
-[Download and watch the demo video](https://youtu.be/Rr6vuQPuTdI)
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/Rr6vuQPuTdI/0.jpg)](https://youtu.be/Rr6vuQPuTdI)
 
 ## Installation
 1. **Clone the repository:**
