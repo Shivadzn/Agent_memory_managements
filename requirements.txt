@@ -3,3 +3,6 @@ faiss-cpu
 sqlite-utils
 python-dotenv
 groq
+langchain_groq
+streamlit
+langchain
