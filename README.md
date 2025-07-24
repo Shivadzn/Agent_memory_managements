@@ -19,8 +19,7 @@ If you have a `demo.mp4` file in this repository, you can watch it directly here
 ![Demo Video](demo.mp4)
 
 ### Option 2: YouTube Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rr6vuQPuTdI" frameborder="0" allowfullscreen></iframe>
-
+[![Watch the demo on YouTube](https://img.youtube.com/vi/Rr6vuQPuTdI/0.jpg)](https://youtu.be/Rr6vuQPuTdI)
 
 **Note:** To add your own demo video, simply place a `demo.mp4` file in the root directory of this repository. The video will automatically be embedded above.
 
